@@ -118,5 +118,15 @@
     "isGuide": "no",
     "viewed": 0,
     "food": "One night"
+  },
+  {
+    "name": "Chicago Sunset Cruise fly",
+    "description": "Drink in a one-of-a-kind perspective on the Windy City when you go for an evening cruise, perfectly timed to coincide with the sunset.",
+    "price": 199.99,
+    "location": "Chicago",
+    "duration": "4 night",
+    "isGuide": "no",
+    "viewed": 0,
+    "food": "two night"
   }
 ]

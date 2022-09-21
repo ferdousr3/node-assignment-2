@@ -4,7 +4,8 @@ Live API Link [tourAPI](https://tours-gules.vercel.app/).
 
 ## Details
 
-Tour API for Get all Tours with shorting, pagination, limiting, get single tours, update single tour, get top 3 viewed tour, get top 3 cheapest tour
+Tour API for Get all Tours with shorting, pagination, limiting, 
+get single tours, update single tour, get top 3 viewed tour, get top 3 cheapest tour
 
 ## 1. Get All tours:
 
@@ -44,7 +45,7 @@ https://tours-gules.vercel.app/api/v1/tours/:id
 ## 4. update a tour:
 
 ```
-https://tours-gules.vercel.app/api/v1/tour/:id
+https://tours-gules.vercel.app/api/v1/tours/:id
 ```
 
 ---
