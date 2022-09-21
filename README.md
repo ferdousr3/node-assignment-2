@@ -6,46 +6,45 @@ Live API Link [tourAPI](https://tours-gules.vercel.app/).
 
 Tour API for Get all Tours with shorting, pagination, limiting, get single tours, update single tour, get top 3 viewed tour, get top 3 cheapest tour
 
-## 1. Get A Random user:
+## 1. Get All tours:
 
 ```
 https://tours-gules.vercel.app/api/v1/tours
 ```
 
-## 2. Get All Random users:
+## Get Limit with pagination tours:
 
 ```
-https://user-zeta.vercel.app/user/all
+https://tours-gules.vercel.app/api/v1/tours?page=2&limit=2
 ```
 
-### Get Limit users:
+### Short tours:
 
 ```
-https://user-zeta.vercel.app/user/all?limit=2
+https://tours-gules.vercel.app/api/v1/tours?sort=price
 ```
-
-## 3. Add New User:
-
-```
-https://user-zeta.vercel.app/user/save
-```
-
-## 4. Update a tour:
+### Get only field :
 
 ```
-https://user-zeta.vercel.app/user/update
+https://tours-gules.vercel.app/api/v1/tours?fields=name,price
 ```
 
-## 5. Update multiple users :
-
-```
-https://user-zeta.vercel.app/user/bulk-update
-```
-
-## 6. update a tour:
+## 3. Add a new tours :
 
 ```
 https://tours-gules.vercel.app/api/v1/tours
+```
+## 3. Get a tour:
+
+```
+https://tours-gules.vercel.app/api/v1/tours/:id
+```
+
+
+## 4. update a tour:
+
+```
+https://tours-gules.vercel.app/api/v1/tour/:id
 ```
 
 ---
@@ -64,4 +63,16 @@ https://tours-gules.vercel.app/api/v1/tours
     "food": "first day and night"
   }
 
+```
+
+## 5. Get top 3 viewed tours :
+
+```
+https://tours-gules.vercel.app/api/v1/tour/trending
+```
+
+## 6. Get top 3 cheapest tours :
+
+```
+https://tours-gules.vercel.app/api/v1/tour/cheapest
 ```
