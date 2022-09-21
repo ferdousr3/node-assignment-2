@@ -146,6 +146,7 @@ exports.createTour = async (req, res, next) => {
 exports.updateTourById = async (req, res, next) => {
   try {
     const tourId = req.params.id;
+    console.log(tourId)
     const updatedTour = await updateTourByIdService(tourId, req.body);
     res.status(200).json({
       status: "success",

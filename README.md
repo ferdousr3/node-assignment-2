@@ -45,7 +45,7 @@ https://tours-gules.vercel.app/api/v1/tours/:id
 ## 4. update a tour:
 
 ```
-https://tours-gules.vercel.app/api/v1/tours/:id
+https://tours-gules.vercel.app/api/v1/tour/:id
 ```
 
 ---

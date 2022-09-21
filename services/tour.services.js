@@ -20,6 +20,7 @@ exports.createTourService = async (data) => {
 
 //* update data
 exports.updateTourByIdService = async (tourId, data) => {
+  console.log(tourId);
   const updatedTour = await Tour.updateOne(
     { _id: tourId },
     { $set: data },
