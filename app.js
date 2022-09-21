@@ -12,7 +12,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
 //Routes
-app.use("/api/v1/tours", tourRoute);
+app.use("/api/v1", tourRoute);
 
 //Home route -> when server run
 app.get("/", (req, res) => {

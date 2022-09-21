@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Las Vegas Helicopter Night Flight",
+    "description": "See the bright lights of the Las Vegas Strip and the surrounding region during this nighttime helicopter flight.",
+    "price": 189.99,
+    "location": "las vegas",
+    "duration": "3 days",
+    "isGuide": "no",
+    "viewed": 0,
+    "food": "first day and night"
+  },
+  {
+    "name": "Grand Canyon West Rim Bus Tour & Hoover Dam",
+    "description": "visit the Grand Canyon, and see several other sights along the way, on this full-day tour from Las Vegas. Travel by a modern luxury bus",
+    "price": 99.99,
+    "location": "las vegas",
+    "duration": "2 days",
+    "isGuide": "yes",
+    "viewed": 0,
+    "food": "first day and night"
+  },
+  {
+    "name": "Grand Canyon Deluxe Tour",
+    "description": "Fly from Las Vegas to the Grand Canyon in a sightseeing helicopter, touch down deep in the canyon for a Champagne toast",
+    "price": 299.99,
+    "location": "las vegas",
+    "duration": "3 days",
+    "isGuide": "yes",
+    "viewed": 0,
+    "food": "first day and night"
+  },
+  {
+    "name": "New York in One Day Guided Sightseeing Tour",
+    "description": "Make the most of your time in the city that never sleeps on a guided tour of NYC’s top attractions. Travel by both the Staten Island Ferry",
+    "price": 199.99,
+    "location": "new york",
+    "duration": "3 days",
+    "isGuide": "yes",
+    "viewed": 0,
+    "food": "third day and second day"
+  },
+  {
+    "name": "Statue of Liberty & Ellis Island Tour: All Options",
+    "description": "One of the most iconic symbols of America, the Statue of Liberty rises up from New York Harbor, welcoming the immigrants",
+    "price": 149.99,
+    "location": "new york",
+    "duration": "3 days",
+    "isGuide": "no",
+    "viewed": 0,
+    "food": "one day"
+  },
+  {
+    "name": "New York Dinner Cruise",
+    "description": "Get a totally different and exciting perspective on New York: from a fun dinner cruise that floats around New York Harbor",
+    "price": 79.99,
+    "location": "new york",
+    "duration": "1 night",
+    "isGuide": "no",
+    "viewed": 0,
+    "food": "One night"
+  },
+  {
+    "name": "Key West Sunset Sail with Full Bar, Live Music",
+    "description": "Get a totally different and exciting perspective on New York: from a fun dinner cruise that floats around New York Harbor",
+    "price": 299.99,
+    "location": "florida",
+    "duration": "4 nights",
+    "isGuide": "yes",
+    "viewed": 0,
+    "food": "One night"
+  },
+  {
+    "name": "Key West Florida Reef Half-Day Snorkeling Excursion",
+    "description": "Enjoy an afternoon of swimming and snorkeling on this cruise off the coast of Key West. Spend a relaxing afternoon on a 69-foot",
+    "price": 499.99,
+    "location": "florida",
+    "duration": "7 days",
+    "isGuide": "yes",
+    "viewed": 0,
+    "food": "all day and night"
+  },
+  {
+    "name": "Key West Sunset Cruise with Tropical Buffet Dinner",
+    "description": "Watch Key West's sunset — a main island attraction — on an evening dinner cruise. Feast on a tropical-themed buffet dinner",
+    "price": 69.99,
+    "location": "florida",
+    "duration": "1 night",
+    "isGuide": "no",
+    "viewed": 0,
+    "food": "One night"
+  },
+  {
+    "name": "Chicago Architecture River Cruise",
+    "description": "Cruise down the Chicago River to see the city's famous architecture on this boat tour. With commentary from your",
+    "price": 88.99,
+    "location": "Chicago",
+    "duration": "1 night",
+    "isGuide": "no",
+    "viewed": 0,
+    "food": "One night"
+  },
+  {
+    "name": "Chicago Lake and River Architecture Tour",
+    "description": "Step aboard a boat for a comprehensive cruise that details the history of Chicago's architecture. Enjoy views of the Chicago skyline",
+    "price": 149.99,
+    "location": "Chicago",
+    "duration": "3 night",
+    "isGuide": "no",
+    "viewed": 0,
+    "food": "two night"
+  },
+  {
+    "name": "Chicago Sunset Cruise",
+    "description": "Drink in a one-of-a-kind perspective on the Windy City when you go for an evening cruise, perfectly timed to coincide with the sunset.",
+    "price": 169.99,
+    "location": "Chicago",
+    "duration": "3 night",
+    "isGuide": "no",
+    "viewed": 0,
+    "food": "One night"
+  }
+]
